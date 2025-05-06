@@ -1,6 +1,6 @@
 # 🚀 Deployment Guide for WinLEW App
 
-1. For -Local Only
+1. For -Local and v2 Only
 
 ## Frontend (Vercel)
 1. Push repo to GitHub
